@@ -6,5 +6,5 @@ In addition, users can also use the search function at the top of the Home scree
 To save display space, I use the “See more” and “Less” buttons to collapse the content of the description. Users can click to expand the content and collapse with just one button. 
 Furthermore, users can click on the “Book table” button to be able to reserve a table at that restaurant. The next screen will ask the user to fill out a form to reserve a table. After filling in all the information, the user can click 
 “Submit.” The screen will notify that the reservation has been successful, and the user can return to the Home screen. 
-![image](https://user-images.githubusercontent.com/77574061/183609310-5f9d0324-7bf5-4793-890a-5505d033a2fc.png)
+
 
