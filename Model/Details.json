@@ -1,0 +1,245 @@
+[
+    {
+      "email": "support.theLog@gmail.com",
+      "id": 1,
+      "phone": "1900996660",
+      "imageName": "theLog",
+      "name": "The Log buffet",
+      "description":"  The LOG Restaurant is extremely famous in Ho Chi Minh City. This is a suitable place to organize parties and events with impressive space and typical Western cuisine. Under the skillful hands of a team of chefs, it turns out countless dishes that will pamper every taste, simultaneously with a buffet style, increasing excitement and giving the best experience.",
+      "coordinates": {
+          "latitude": 10.790202225852626,
+          "longitude": 106.70236916305015
+      }
+    },
+    {
+      "email": "support.theSorae@gmail.com",
+      "id": 2,
+      "phone": "02838272372",
+      "imageName": "theSorae",
+      "name": "Sorae Restaurant & Lounge",
+      "description":"  Named after the sun, Sorae Restaurant boasts an ideal rendezvous in the heart of District 1. This renowned restaurant merits your new go-to with 20 top chefs, fresh source of sashimi from Osaka and Tsukiji, grilled Wagyu steak, and Sake collections. Finish off the Japanese feast with Japanese-inspired cocktails.",
+      "coordinates": {
+          "latitude": 10.770619449127688,
+          "longitude": 106.69435208200824
+      }
+    },
+    {
+      "email": "support.sushiRei@gmail.com",
+      "id": 3,
+      "phone": "0789990329",
+      "imageName": "sushiRei",
+      "name": "Sushi Rei",
+      "description":"  This multi-award-winning restaurant stood the test of time for premium sushi imported from Tsukiji market, the most famous seafood market in Japan. The menu changes seasonally for the best quality of raw oyster, lobster, abalone, and blowfish, to name a few. Courses are priced reasonably and guests do not get charge for private rooms if they spend at least 12 million VND on total bill.",
+      "coordinates": {
+          "latitude": 10.788882715022684,
+          "longitude": 106.70265383068438
+      }
+    },
+    {
+      "email": "support.theRJ@gmail.com",
+      "id": 4,
+      "phone": "02838236688",
+      "imageName": "theRJ",
+      "name": "R&J Italian Lounge & Restaurant",
+      "description":"  Indulge your taste bud in an à la carte menu of signature Italian dishes helmed by Enrico de Martino, a skillful chef who used to work in Michelin-starred kitchens. Also, to be found there is an excellent drink and wine list namely French Champagne, Italian Red Wine.",
+      "coordinates": {
+          "latitude": 10.773825008662472,
+          "longitude": 106.70455135317256
+      }
+    },
+    {
+      "email": "support.theNamo@gmail.com",
+      "id": 5,
+      "phone": "02838227988",
+      "imageName": "theNamo",
+      "name": "Namo Italian",
+      "description":"  This stand-alone restaurant adds a new Italian dining experience in lieu of casual Italian style. The authenticity is well-presented in mozzarella-based gourmet pizzas, beef cheek tortelli, homemade pandoro, and so on.",
+      "coordinates": {
+          "latitude": 10.778188481516516,
+          "longitude": 106.70376343967949
+      }
+    },
+    {
+      "email": "support.theTruffles@gmail.com",
+      "id": 6,
+      "phone": "0988783353",
+      "imageName": "theTruffles",
+      "name": "Truffle Restaurant",
+      "description":"  Proudly set location on the Ho Chi Minh City's iconic building, Truffles Restaurant is unquestionably exorbitant on par with the most luxurious restaurants in the world. Upmarket guests often come there to taste excellent delicacies and soak up the laid-back opulence.",
+      "coordinates": {
+          "latitude": 10.79512535997163,
+          "longitude": 106.72191261269272
+      }
+    },
+    {
+      "email": "support.anhTukk@gmail.com",
+      "id": 7,
+      "phone": "02838251676",
+      "imageName": "anhTukk",
+      "name": "Anh Tukk Saigon",
+      "description":"  Ready to be delighted by uniquely-crafted Thai food adjusted to Vietnamese taste buds while remaining the original flavor at ANH TUKK Saigon. Must-try dishes are Pad Thai, Tom Yum, Sorbet, and more. The whole dark-hued space is homely, elegant, and suitable for intimate meetings.",
+      "coordinates": {
+          "latitude": 10.778570143834223,
+          "longitude": 106.70370926851497
+      }
+    },
+    {
+      "email": "support.abyTung@gmail.com",
+      "id": 8,
+      "phone": "0982808533",
+      "imageName": "abyTung",
+      "name": "Å by TUNG",
+      "description":"  This casual eatery treats guests with a delightful journey of Italian specialties and homemade desserts. Warm-heating traditional pasta and pizza asides, gourmand often tuck into the restaurant for a sumptuous Italian brunch by the pool and melodious music every Sunday.",
+      "coordinates": {
+          "latitude": 10.79276692967416,
+          "longitude": 106.69062981269285
+      }
+    },
+    {
+      "email": "support.ananSaigon@gmail.com",
+      "id": 9,
+      "phone": "0904792920",
+      "imageName": "ananSaigon",
+      "name": "Anan restaurant & rooftop bar",
+      "description":"  What makes Anan restaurant special is the street food-inspired fusion menu far beyond traditional local dishes since it incorporates French culinary techniques. The restaurant is led by Chef Peter Cuong Franklin, a pioneer using the French cooking method in Vietnamese and Asian cuisines. Anan also features a bar thus guests can enjoy a variety of superior drinks and wines.",
+      "coordinates": {
+          "latitude": 10.771912419374539,
+          "longitude": 106.70290317413163
+      }
+    },
+    {
+      "email": "support.chopsticksSG@gmail.com",
+      "id": 10,
+      "phone": "0904792920",
+      "imageName": "chopstickSaigon",
+      "name": "The Chopsticks Saigon",
+      "description":"  The Chopsticks Saigon is tucked away in a vintage village which is the former residence of the Vice President of the Southern Vietnamese Government. The building is rather quiet and secluded with a garden entry and staircases leading to upper floors. Here you'll find seasonal set menus and multiple classics made from freshly-grown ingredients",
+      "coordinates": {
+          "latitude": 10.783321577177514,
+          "longitude":106.68967123570597
+      }
+    },
+    {
+      "email": "support.yuchu@gmail.com",
+      "id": 11,
+      "phone": "02835209999",
+      "imageName": "yuchuChinese",
+      "name": "Yu Chu - Chinese Restaurant",
+      "description":"  Designed in lavish, modern style, Yu Chu Restaurant is a perfect place for group and family gatherings. A quick look at the soul-healing menu reveals Yu Chu Restaurant's domination in Cantonese and Peking cuisine. The price is reasonable and prior reservation is recommended.",
+      "coordinates": {
+          "latitude": 10.781197121014806,
+          "longitude": 106.70061012433713
+      }
+    },
+    {
+      "email": "support.royalPavilon@gmail.com",
+      "id": 12,
+      "phone": "02835209989",
+      "imageName": "royalPavilon",
+      "name": "The Royal Pavilion",
+      "description":"  Drop by The Royal Pavilion in The Reverie Saigon Hotel and you'll find Chinese's finest dim sum in Vietnam. Seize an opportunity to feel the barbecued pork melted in your mouth and savor traditional dumplings, roast ducks, and so on with the a la carte menu or set lunch.",
+      "coordinates": {
+          "latitude": 10.778681834271648,
+          "longitude": 1106.6883769903545
+      }
+    },
+    {
+      "email": "support.theBrix@gmail.com",
+      "id": 13,
+      "phone": "0907851010",
+      "imageName": "theBrix",
+      "name": "The Brix",
+      "description":"  Escape the city and step into a tropical inspired oasis in Saigon. 🌴 THE BRIX is the perfect place for those in pursuit of good times. Open-air Restaurant | Cocktail Bar | Poolside Lounge in the heart of Ho Chi Minh City (Thao Dien).",
+      "coordinates": {
+          "latitude": 10.80536628123439,
+          "longitude": 106.74040202883555
+      }
+    },
+    {
+      "email": "support.Ussina@gmail.com",
+      "id": 14,
+      "phone": "02873079793",
+      "imageName": "theUssina",
+      "name": "Ussina sky 77",
+      "description":"  Be one of the first diners to Ussina Restaurant, Floor 77, Vincom Landmark 81, experience the pinnacle space, enjoy Wagyu Beef prepared by the unique Snow Aging technique, imbued with Japanese cuisine.",
+      "coordinates": {
+          "latitude": 10.795262366546162,
+          "longitude": 106.72180532433723
+      }
+    },
+    {
+        "email": "support.Socialclub@gmail.com",
+        "id": 15,
+        "phone": "02839898888",
+        "imageName": "theSocialclub",
+        "name": "The Social club ",
+        "description":"  A restaurant on the 23rd floor offers breathtaking views of Saigon. Admire the view while dining on fresh seasonal cuisine inspired by European favorites, perfect for friends and colleagues, families, or couples seeking a romantic destination.",
+        "coordinates": {
+            "latitude": 10.782545062351675,
+            "longitude": 106.69731122633374
+        }
+      },
+    {
+      "email": "support.Rosevilla@gmail.com",
+      "id": 16,
+      "phone": "0936362211",
+      "imageName": "theRosevilla",
+      "name": "The Rose Villa",
+      "description":"  The Rose Villa is a space that perfectly blends design with bold and unique cuts. The way of combining decorative images, light, and sound gives you a feeling as if you have lost your foot in a fairyland, strange, extremely mysterious and charming.",
+      "coordinates": {
+          "latitude": 10.78257668058196,
+          "longitude": 106.69734341269277
+      }
+    },
+    {
+      "email": "support.theArgentinian@gmail.com",
+      "id": 17,
+      "phone": "02854136909",
+      "imageName": "theArgentinian",
+      "name": "El Gaucho Argentinian Steakhouse",
+      "description":"  Beef Steak has long been an irreplaceable symbol of the American Far West. Right in Ho Chi Minh City, beef steak lovers have a chance to enjoy a free-flow menu of the best beef steak at El Gaucho Restaurant. High-quality beef is imported from Tyson & Omaha in the USA and Hitachi in Japan. The diverse menu and unrivaled beef quality contribute to the great reputation of this venue.",
+      "coordinates": {
+          "latitude": 10.72802677081085,
+          "longitude": 106.71853528200795
+      }
+    },
+    {
+      "email": "support.theBaozi@gmail.com",
+      "id": 18,
+      "phone": "02873094094",
+      "imageName": "theBaozi",
+      "name": "Baozi Saigon",
+      "description":"  Referring to Baozi, we know a miniature Taiwanese cuisine in the heart of Saigon. If you are a person in Saigon, or have the opportunity to come to this bustling city. Do not miss the interesting things at Baozi restaurant.",
+      "coordinates": {
+          "latitude": 10.772577185476365,
+          "longitude": 106.70342337548247
+      }
+    },
+    {
+      "email": "support.theLecorto@gmail.com",
+      "id": 19,
+      "phone": "02838220671",
+      "imageName": "theLecorto",
+      "name": "Le Corto",
+      "description":"  Located in the heart of the suave and sophisticated area of District One called Ben Nghe Ward, Le Corto has the French decor and ambience to match its surroundings. The dining space is quite large with a red, black and grey colour scheme running through it and a polished bar area serving cocktails and an extensive list of wines, of course.",
+      "coordinates": {
+          "latitude": 10.77808498160721,
+          "longitude": 106.70461553967944
+      }
+    },
+    {
+      "email": "support.theDeck@gmail.com",
+      "id": 20,
+      "phone": "02837446632",
+      "imageName": "theDeck",
+      "name": "The Deck",
+      "description":"  The Deck have a global menu incorporating a sharing Pan-Asian experience, modern and exciting, using the best and freshest local ingredients. Seafood is flown in directly from Phu Quoc Island, vegetables from Da Lat, and meat from Australia and New Zealand. The menu is simple focusing on single ingredients.",
+      "coordinates": {
+          "latitude": 10.807402055887902,
+          "longitude": 106.74438516851522
+      }
+    }
+]
+
+
+
